@@ -1,0 +1,14 @@
+.margins {
+    margin : 10px;
+    padding : 15px;
+}
+
+.buttoncenter {
+    text-align: center;
+}
+
+p {
+    text-align: left;
+    /* font-size: 1.2rem; */
+    font-weight: bold;
+}
