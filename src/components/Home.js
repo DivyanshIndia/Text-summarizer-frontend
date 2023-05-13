@@ -1,17 +1,8 @@
-import Textbox from "./Textbox";
-import { useState, useEffect } from "react";
-
+import Form from "./Form";
 const Home = () => {
-  // const [inputText, setInputText] = useState("");
-  // const [OutputText, setOutputText] = useState("");
   return (
     <>
-      <Textbox
-        show={true}
-        label="Text to be summarized"
-        flabel="Enter text here"
-      />
-      <Textbox show={false} label="Summarized text" />
+      <Form></Form>
     </>
   );
 };

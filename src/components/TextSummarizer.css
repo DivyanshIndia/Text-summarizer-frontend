@@ -1,0 +1,31 @@
+.TextSummarizer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background: linear-gradient(to bottom, #FCEB3B, #FDB813);
+
+}
+
+.Card {
+  width: 80%;
+  margin: 20px;
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.Card h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #0066cc;
+  text-shadow: 1px 1px #ccc;
+}
+
+.Card p {
+  font-size: 18px;
+  line-height: 1.5;
+  margin-bottom: 10px;
+  color: #444;
+  text-shadow: 1px 0px #ccc;
+}

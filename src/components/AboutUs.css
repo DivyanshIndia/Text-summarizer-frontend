@@ -1,0 +1,52 @@
+.carde {
+    background-color: #b6d0e2;
+    border-radius: 5px;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.9);
+    color: black;
+    padding: 20px;
+    margin: 20px;
+    font-size: large;
+    font-weight: 500;
+    background: linear-gradient(to bottom, #FCEB3B, #FDB813);
+    text-align: center;
+
+  }
+
+  ul {
+    list-style-type: none;
+  }
+  
+  .card h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .card ul {
+    margin-bottom: 20px;
+  }
+  
+  .card ul li {
+    margin-bottom: 5px;
+  }
+  
+  .card p {
+    margin-bottom: 10px;
+  }
+
+  .card h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+  
+  .card .bold {
+    font-weight: bold;
+  }
+  
+  .shade {
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.7);
+    border-radius: 25px;
+    width: 100%;
+    max-height: 500px;
+    
+  }
+  
